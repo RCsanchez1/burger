@@ -11,7 +11,7 @@ The link below will give you direct access to Burger web application using your 
 
 
 ## Local Environment Setup
-To use Eat-Da-Burger web application application from your local environment, you must accomplish the following steps below:
+To use Burger web application application from your local environment, you must accomplish the following steps below:
 
 **Step 1 - Clone my repo using the command line below.**
 ```
